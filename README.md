@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, ReactJS**
 
-- 📫 How to reach me **rxgocmen@gmail.com**
+- 📫 How to reach me **recepgocmendev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

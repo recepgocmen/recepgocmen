@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/RecepGocmen16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="recepgocmen" height="30" width="40" /></a>
+<a href="https://twitter.com/recepgocmendev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="recepgocmen" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/recep-gocmen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="recepgocmen" height="30" width="40" /></a>
 <a href="https://instagram.com/recepgocmen16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="recepgocmen" height="30" width="40" /></a>
 </p>

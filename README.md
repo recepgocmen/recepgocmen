@@ -59,6 +59,6 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=recepgocmen)](https://github.com/recepgocmen/github-readme-stats)
-![snake gif](https://github.com/recepgocmen/recepgocmen/blob/output/github-contribution-grid-snake.gif)
+
+
 

@@ -12,7 +12,7 @@
 
 
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, Tailwindcss, JavaScript, ReactJS, Redux, NextJS**
+- 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind, MUI, JavaScript, ReactJS, Redux, NextJS**
 
 - 📫 How to reach me **recepgocmendev@gmail.com**
 
@@ -36,8 +36,9 @@
  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40"/> </a>
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
  <a href="https://trello.com/en" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="trello" width="40" height="40"/> </a>
+ <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
 <a href="https://cdnlogo.com/logo/next-js_21574.html" width="40" height="40"><img src="https://cdn.cdnlogo.com/logos/n/80/next-js.svg" width="40" height="40"></a> 
-<a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
+
  
   <!--
    

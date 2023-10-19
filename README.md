@@ -12,7 +12,7 @@
 
 
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind, MUI, JavaScript, ReactJS, Redux, NextJS, Typescript**
+- 💬 Ask me about **JavaScript, ReactJS, Redux, NextJS, Typescript, HTML, CSS, Bootstrap, Tailwind, MUI**
 
 - 📫 How to reach me **recepgocmendev@gmail.com**
 

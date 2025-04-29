@@ -53,6 +53,14 @@
 <a href="https://www.netlify.com/" target="_blank"> <img src="https://www.netlify.com/img/press/logos/logomark.png" alt="netlify" width="30" height="30"/> </a> 
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=recepgocmen&show_icons=true&theme=dark&locale=en" alt="recepgocmen" /></p>
+
+<p>
+<img width="350px" src="https://github-readme-stats.vercel.app/api?username=recepgocmen&show_icons=true&locale=en&hide_border=true&theme=tokyonight" alt="recepgocmen" />
+</p>
+
+<p>
+<img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs?username=recepgocmen&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight" alt="recepgocmen" />
+</p>
   -->
 </p>
 

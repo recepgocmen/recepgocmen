@@ -56,12 +56,9 @@
   -->
 </p>
 
-<p>
-<img width="350px" src="https://github-readme-stats.vercel.app/api?username=recepgocmen&show_icons=true&locale=en&hide_border=true&theme=tokyonight" alt="recepgocmen" />
-</p>
-
-<p>
-<img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs?username=recepgocmen&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight" alt="recepgocmen" />
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=recepgocmen&show_icons=true&locale=en&hide_border=true&theme=tokyonight&cache_seconds=1800" alt="recepgocmen github stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=recepgocmen&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=1800" alt="recepgocmen top languages" />
 </p>
 
 

@@ -55,7 +55,9 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=recepgocmen&show_icons=true&theme=dark&locale=en" alt="recepgocmen" /></p>
   -->
 </p>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=recepgocmen&show_icons=true&theme=radical&cache_seconds=1800" alt="Recep's GitHub stats" />
+</p>
 
 
 

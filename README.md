@@ -55,7 +55,9 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=recepgocmen&show_icons=true&theme=dark&locale=en" alt="recepgocmen" /></p>
   -->
 </p>
-![GitHub Stats](https://devmetricsforgithub.vercel.app/api/stats?username=recepgocmen&theme=tokyonight&show_icons=true&hide_border=true)
+![GitHub Stats](https://devmetricsforgithub.vercel.app/api/stats?username=recepgocmen&theme=tokyonight&show_icons=true&hide_border=true&v=3)
+
+![Top Languages](https://devmetricsforgithub.vercel.app/api/top-langs?username=recepgocmen&theme=tokyonight&layout=compact&hide_border=true&v=2)
 
 
 

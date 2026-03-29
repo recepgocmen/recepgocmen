@@ -56,21 +56,7 @@
   -->
 </p>
 
-<p align="center">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=recepgocmen&show_icons=true&locale=en&hide_border=true&theme=tokyonight&cache_seconds=1800" alt="Recep Göçmen GitHub Stats" />
-  
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=recepgocmen&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=1800" alt="Recep Göçmen Top Languages" />
-</p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=recepgocmen&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Recep Göçmen GitHub Streak" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=recepgocmen&theme=tokyonight&no-bg=true&no-frame=true&column=7" alt="recepgocmen trophies" />
-  </a>
-</p>
 
 
 

@@ -20,6 +20,11 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/recep-gocmen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="recepgocmen" height="30" width="40" /></a>
 </p>
+</br>
+</br>
+
+  <img width="48%" src="https://devmetricsforgithub.vercel.app/api/stats?username=recepgocmen&theme=tokyonight&show_icons=true&hide_border=true&v=3" alt="GitHub Stats" />
+  <img width="48%" src="https://devmetricsforgithub.vercel.app/api/top-langs?username=recepgocmen&theme=tokyonight&layout=compact&hide_border=true&v=3" alt="Top Languages" />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -35,30 +40,14 @@
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
  <a href="https://trello.com/en" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="trello" width="40" height="40"/> </a>
  <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
-<a href="https://cdnlogo.com/logo/next-js_21574.html" width="40" height="40"><img src="https://cdn.cdnlogo.com/logos/n/80/next-js.svg" width="40" height="40"></a> 
+ <a href="https://cdnlogo.com/logo/next-js_21574.html" width="40" height="40"><img src="https://cdn.cdnlogo.com/logos/n/80/next-js.svg" width="40" height="40"></a> 
+ <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+ <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+ <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+ <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 
- 
-  <!--
-   
-  [<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-
-  <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-
-  <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> ](url)
-<a href="https://www.netlify.com/" target="_blank"> <img src="https://www.netlify.com/img/press/logos/logomark.png" alt="netlify" width="30" height="30"/> </a> 
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=recepgocmen&show_icons=true&theme=dark&locale=en" alt="recepgocmen" /></p>
-  -->
 </p>
-<p>
-  <img width="48%" src="https://devmetricsforgithub.vercel.app/api/stats?username=recepgocmen&theme=tokyonight&show_icons=true&hide_border=true&v=3" alt="GitHub Stats" />
-  <img width="48%" src="https://devmetricsforgithub.vercel.app/api/top-langs?username=recepgocmen&theme=tokyonight&layout=compact&hide_border=true&v=3" alt="Top Languages" />
-</p>
+
 
 
 

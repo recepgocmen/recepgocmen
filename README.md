@@ -2,8 +2,7 @@
  
 <h3 align="center"> Senior Software Developer </h3>
 
-- 💬 **Javascript-ES6+, React (+Hooks), Next.JS, Vite.JS, Server Side Rendering, React Native, TypeScript, Tanstack Query, SEO, BFF, Storybook, Redux-Toolkit, Context-API, Tailwind, Bootstrap, Material UI, ANT Design, HTML5/CSS3/, OAuth,  RESTful API, TDD (Cypress), Git, Github, Trello, Jira, No Code Platforms (Webflow, Framer), Datalayer, Jenkins, SonarScanner, New Relic, Dependency-Track, Elastic Search.
-**
+- 💬 **Javascript-ES6+, React (+Hooks), Next.JS, Vite.JS, Server Side Rendering, React Native, TypeScript, Tanstack Query, SEO, BFF, Storybook, Redux-Toolkit, Context-API, Tailwind, Bootstrap, Material UI, ANT Design, HTML5/CSS3/, OAuth,  RESTful API, TDD (Cypress), Git, Github, Trello, Jira, No Code Platforms (Webflow, Framer), Datalayer, Jenkins, SonarScanner, New Relic, Dependency-Track, Elastic Search.**
 
 - 📫 How to reach me **recepgocmendev@gmail.com**
 

@@ -13,5 +13,7 @@
 </br>
 </br>
 
-  <!--<img width="48%" src="https://devmetricsforgithub.vercel.app/api/stats?username=recepgocmen&theme=tokyonight&show_icons=true&hide_border=true&v=3" alt="GitHub Stats" />
-  <img width="48%" src="https://devmetricsforgithub.vercel.app/api/top-langs?username=recepgocmen&theme=tokyonight&layout=compact&hide_border=true&v=3" alt="Top Languages" />-->
+<p align="center">
+  <img width="48%" src="https://devmetricsforgithub.vercel.app/api/stats?username=recepgocmen&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Stats" />
+  <img width="48%" src="https://devmetricsforgithub.vercel.app/api/top-langs?username=recepgocmen&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
+</p>

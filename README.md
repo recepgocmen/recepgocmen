@@ -1,8 +1,12 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm Recep</h1> 
  
-<h3 align="center"> Senior Software Developer </h3>
+<h3 align="center"> Senior Full Stack Developer · .NET / React / Next.js · AI-Assisted Development </h3>
 
-- 💬 **Javascript-ES6+, React (+Hooks), Next.JS, Vite.JS, Server Side Rendering, React Native, TypeScript, Tanstack Query, SEO, BFF, Storybook, Redux-Toolkit, Context-API, Tailwind, Bootstrap, Material UI, ANT Design, HTML5/CSS3/, OAuth,  RESTful API, TDD (Cypress), Git, Github, Trello, Jira, No Code Platforms (Webflow, Framer), Datalayer, Jenkins, SonarScanner, New Relic, Dependency-Track, Elastic Search.**
+- 🖥️ **Frontend:** TypeScript, JavaScript (ES6+), React, Next.js (App Router, SSR), Vite, React Native, TanStack Query, Redux Toolkit, Tailwind, Material UI, Ant Design, Storybook, SEO, Core Web Vitals, Micro-Frontends, BFF
+- ⚙️ **Backend:** C#, .NET Core / .NET 10, ASP.NET Core Web API, Entity Framework Core, MSSQL, Node.js, Express.js, MongoDB, REST APIs, Microservices, Clean Architecture, JWT / OAuth, Redis, Kafka, Consul, Elasticsearch
+- 🚀 **DevOps & Quality:** Docker, Kubernetes, Jenkins, Azure Pipelines, SonarQube, Dependency-Track, New Relic, Jest, Vitest, Cypress, Playwright, xUnit
+- 🤖 **AI-Assisted Development:** Claude Code, Codex, Cursor, GitHub Copilot, MCP (Model Context Protocol), LLM integration, AI agents — I ship features end-to-end (PRD → FE + BE → QA → release) with an AI-native workflow
+- 🏦 Currently building high-traffic fintech products at **HangiKredi** (35M+ monthly users)
 
 - 📫 How to reach me **recepgocmendev@gmail.com**
 
